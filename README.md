@@ -176,7 +176,7 @@ The dashboard enables stakeholders to quickly identify trends, customer behavior
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
+git clone https://github.com/tejasreeshaga28/customer_behavior_analysis
 ```
 
 Install required Python libraries:
